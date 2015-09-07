@@ -1,0 +1,29 @@
+{
+  "name": "david-603-pauline",
+  "version": "0.1.0",
+  "description": "&lt;3",
+  "main": "index.js",
+  "bin": {
+    "603": "./cli.js",
+    "david": "./cli.js",
+    "pauline": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidyen1124/david-603-pauline.git"
+  },
+  "keywords": [
+    "pauline",
+    "603",
+    "david"
+  ],
+  "bugs": {
+    "url": "https://github.com/davidyen1124/david-603-pauline/issues"
+  },
+  "homepage": "https://github.com/davidyen1124/david-603-pauline#readme"
+}
